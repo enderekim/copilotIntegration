@@ -1,0 +1,14 @@
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/Copilot entegrasyon/Projects/my-console-app/bin/Debug/net6.0/my-console-app
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/Copilot entegrasyon/Projects/my-console-app/bin/Debug/net6.0/my-console-app.dll
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/Copilot entegrasyon/Projects/my-console-app/bin/Debug/net6.0/my-console-app.pdb
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/Copilot entegrasyon/Projects/my-console-app/obj/Debug/net6.0/my-console-app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/Copilot entegrasyon/Projects/my-console-app/obj/Debug/net6.0/my-console-app.AssemblyInfoInputs.cache
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/Copilot entegrasyon/Projects/my-console-app/obj/Debug/net6.0/my-console-app.AssemblyInfo.cs
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/Copilot entegrasyon/Projects/my-console-app/obj/Debug/net6.0/my-console-app.csproj.CoreCompileInputs.cache
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/Copilot entegrasyon/Projects/my-console-app/obj/Debug/net6.0/my-console-app.dll
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/Copilot entegrasyon/Projects/my-console-app/obj/Debug/net6.0/refint/my-console-app.dll
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/Copilot entegrasyon/Projects/my-console-app/obj/Debug/net6.0/my-console-app.pdb
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/Copilot entegrasyon/Projects/my-console-app/bin/Debug/net6.0/my-console-app.deps.json
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/Copilot entegrasyon/Projects/my-console-app/bin/Debug/net6.0/my-console-app.runtimeconfig.json
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/Copilot entegrasyon/Projects/my-console-app/obj/Debug/net6.0/my-console-app.genruntimeconfig.cache
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/Copilot entegrasyon/Projects/my-console-app/obj/Debug/net6.0/ref/my-console-app.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zUnddJr6wxM=",
+  "success": true,
+  "projectFilePath": "/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/Copilot entegrasyon/Projects/my-console-app/my-console-app.csproj",
+  "expectedPackageFiles": [
+    "/Users/endere/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/endere/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/endere/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.36/microsoft.netcore.app.host.osx-arm64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
